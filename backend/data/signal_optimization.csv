@@ -1,0 +1,2 @@
+traffic_level,total_unique_vehicles,peak_simultaneous,left_vehicles,right_vehicles,straight_vehicles,left_green,right_green,straight_green,priority_direction,priority_vehicles,yellow_time,all_red_time,recommendation
+LOW,33,5,5,3,0,38,22,0,LEFT,5,5,2,Prioritize LEFT traffic. Recommended green time: 38 seconds.
