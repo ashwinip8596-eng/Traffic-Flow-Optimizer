@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# YOLO generated files
+runs/
+
+# Large videos
+*.mp4
+*.avi
+*.mov
+
+# YOLO model weights
+*.pt
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
