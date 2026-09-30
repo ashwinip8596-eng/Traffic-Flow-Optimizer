@@ -1,8 +1,5 @@
 const express = require("express");
-
-const {
-    getDirection
-} = require("../controllers/directionController");
+const { getDirection } = require("../controllers/directionController");
 
 const router = express.Router();
 

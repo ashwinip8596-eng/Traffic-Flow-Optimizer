@@ -9,7 +9,7 @@ const getSignal = async (req, res) => {
         if (snapshot.empty) {
             return res.status(404).json({
                 success: false,
-                message: "No signal optimization data available"
+                message: "No signal data available"
             });
         }
 

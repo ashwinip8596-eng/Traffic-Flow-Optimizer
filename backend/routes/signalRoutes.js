@@ -1,8 +1,5 @@
 const express = require("express");
-
-const {
-    getSignal
-} = require("../controllers/signalController");
+const { getSignal } = require("../controllers/signalController");
 
 const router = express.Router();
 
